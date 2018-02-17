@@ -1,6 +1,6 @@
 {
   "name": "@torpadev/opal-node-red-utils",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.0",
   "description": "Ultity module used by OPAL nodes",
   "repository": {
     "type": "git",
