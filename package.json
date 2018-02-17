@@ -1,5 +1,5 @@
 {
-  "name": "@telligro/opal-node-red-utils",
+  "name": "@torpadev/opal-node-red-utils",
   "version": "0.0.0-semantic-release",
   "description": "Ultity module used by OPAL nodes",
   "repository": {
