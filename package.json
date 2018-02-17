@@ -34,7 +34,7 @@
   "main": "red-utils.js",
   "scripts": {
     "lint": "gulp lint",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "npx semantic-release"
   },
   "publishConfig": {
     "access": "public"
